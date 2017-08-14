@@ -1,0 +1,26 @@
+{
+  "name": "www.gmu.klesis.dev",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junhwang77/gmu.klesis.dev.git"
+  },
+  "keywords": [
+    "gmu",
+    "klesis"
+  ],
+  "author": "jhwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junhwang77/gmu.klesis.dev/issues"
+  },
+  "homepage": "https://github.com/junhwang77/gmu.klesis.dev#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

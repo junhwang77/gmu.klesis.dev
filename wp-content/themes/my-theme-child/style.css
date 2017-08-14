@@ -1,0 +1,14 @@
+/*
+Theme Name:     My Theme Child
+Theme URI:      http://solopine.com/theme/rosemary/
+Description:    Child theme for the My theme
+Author:         Jun Hwang
+Author URI:     https://wpshout.com
+Template:       my-theme
+Version:        1.0
+*/
+
+
+body {
+    background: green !important;
+}
